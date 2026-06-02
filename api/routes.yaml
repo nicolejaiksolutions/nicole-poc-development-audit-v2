@@ -1,0 +1,4 @@
+routes:
+  - name: "Movies"
+    prefix: "movies"
+    path: "./movies"

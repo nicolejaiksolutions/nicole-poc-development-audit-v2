@@ -1,0 +1,218 @@
+[{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029fad"
+  },
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "releaseYear": 2001,
+  "characters": [
+    {
+      "name": "Frodo Baggins",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Gandalf the Grey",
+      "race": "Maia (Wizard)"
+    },
+    {
+      "name": "Aragorn",
+      "race": "Man"
+    },
+    {
+      "name": "Legolas",
+      "race": "Elf"
+    },
+    {
+      "name": "Gimli",
+      "race": "Dwarf"
+    },
+    {
+      "name": "Boromir",
+      "race": "Man"
+    },
+    {
+      "name": "Samwise Gamgee",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Saruman the White",
+      "race": "Maia (Wizard)"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029fae"
+  },
+  "title": "The Lord of the Rings: The Two Towers",
+  "releaseYear": 2002,
+  "characters": [
+    {
+      "name": "Frodo Baggins",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Aragorn",
+      "race": "Man"
+    },
+    {
+      "name": "Gollum",
+      "race": "Hobbit (Corrupted)"
+    },
+    {
+      "name": "Theoden",
+      "race": "Man"
+    },
+    {
+      "name": "Eowyn",
+      "race": "Man"
+    },
+    {
+      "name": "Treebeard",
+      "race": "Ent"
+    },
+    {
+      "name": "Faramir",
+      "race": "Man"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029faf"
+  },
+  "title": "The Lord of the Rings: The Return of the King",
+  "releaseYear": 2003,
+  "characters": [
+    {
+      "name": "Frodo Baggins",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Aragorn",
+      "race": "Man"
+    },
+    {
+      "name": "Gandalf the White",
+      "race": "Maia (Wizard)"
+    },
+    {
+      "name": "Arwen",
+      "race": "Elf"
+    },
+    {
+      "name": "Elrond",
+      "race": "Elf"
+    },
+    {
+      "name": "Sauron",
+      "race": "Maia (Dark Lord)"
+    },
+    {
+      "name": "Witch-king of Angmar",
+      "race": "Wraith"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029fb0"
+  },
+  "title": "The Hobbit: An Unexpected Journey",
+  "releaseYear": 2012,
+  "characters": [
+    {
+      "name": "Bilbo Baggins",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Gandalf the Grey",
+      "race": "Maia (Wizard)"
+    },
+    {
+      "name": "Thorin Oakenshield",
+      "race": "Dwarf"
+    },
+    {
+      "name": "Balin",
+      "race": "Dwarf"
+    },
+    {
+      "name": "Radagast the Brown",
+      "race": "Maia (Wizard)"
+    },
+    {
+      "name": "Galadriel",
+      "race": "Elf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029fb1"
+  },
+  "title": "The Hobbit: The Desolation of Smaug",
+  "releaseYear": 2013,
+  "characters": [
+    {
+      "name": "Bilbo Baggins",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Thorin Oakenshield",
+      "race": "Dwarf"
+    },
+    {
+      "name": "Smaug",
+      "race": "Dragon"
+    },
+    {
+      "name": "Tauriel",
+      "race": "Elf"
+    },
+    {
+      "name": "Legolas",
+      "race": "Elf"
+    },
+    {
+      "name": "Bard the Bowman",
+      "race": "Man"
+    },
+    {
+      "name": "Thranduil",
+      "race": "Elf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69efd1c1b2f8c7327f029fb2"
+  },
+  "title": "The Hobbit: The Battle of the Five Armies",
+  "releaseYear": 2014,
+  "characters": [
+    {
+      "name": "Bilbo Baggins",
+      "race": "Hobbit"
+    },
+    {
+      "name": "Thorin Oakenshield",
+      "race": "Dwarf"
+    },
+    {
+      "name": "Azog the Defiler",
+      "race": "Orc"
+    },
+    {
+      "name": "Dain Ironfoot",
+      "race": "Dwarf"
+    },
+    {
+      "name": "Beorn",
+      "race": "Skin-changer"
+    },
+    {
+      "name": "Bolg",
+      "race": "Orc"
+    }
+  ]
+}]

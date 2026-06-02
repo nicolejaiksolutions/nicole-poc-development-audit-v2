@@ -1,0 +1,25 @@
+{
+  "name": "bidpro-admin-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "jest": "^30.3.0",
+    "js-yaml": "^4.1.0",
+    "mongodb": "^7.2.0",
+    "mongoose": "^7.8.9",
+    "nodemon": "^3.1.14"
+  },
+  "devDependencies": {
+    "mockingoose": "^2.16.2"
+  }
+}
