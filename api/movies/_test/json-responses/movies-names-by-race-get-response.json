@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Aragorn",
+    "movies": [
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Two Towers"
+    ]
+  },
+  {
+    "name": "Boromir",
+    "movies": ["The Lord of the Rings: The Fellowship of the Ring"]
+  },
+  {
+    "name": "Theoden",
+    "movies": ["The Lord of the Rings: The Two Towers"]
+  },
+  {
+    "name": "Eowyn",
+    "movies": ["The Lord of the Rings: The Two Towers"]
+  }
+]

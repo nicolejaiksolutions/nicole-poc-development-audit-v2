@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "69efd1c1b2f8c7327f029fad",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "releaseYear": 2001,
+    "characters": [
+      {
+        "name": "Frodo Baggins",
+        "race": "Hobbit",
+        "_id": "6a20d07ebc08df2a166c85ca"
+      },
+      { "name": "Aragorn", "race": "Man", "_id": "6a20d07ebc08df2a166c85cc" },
+      { "name": "Boromir", "race": "Man", "_id": "6a20d07ebc08df2a166c85cf" },
+      { "name": "Gimli", "race": "Dwarf", "_id": "6a20d07ebc08df2a166c85ce" }
+    ]
+  },
+  {
+    "_id": "69efd1c1b2f8c7327f029fae",
+    "title": "The Lord of the Rings: The Two Towers",
+    "releaseYear": 2002,
+    "characters": [
+      {
+        "name": "Frodo Baggins",
+        "race": "Hobbit",
+        "_id": "6a20d07ebc08df2a166c85d3"
+      },
+      { "name": "Aragorn", "race": "Man", "_id": "6a20d07ebc08df2a166c85d4" },
+      { "name": "Theoden", "race": "Man", "_id": "6a20d07ebc08df2a166c85d6" },
+      { "name": "Eowyn", "race": "Man", "_id": "6a20d07ebc08df2a166c85d7" }
+    ]
+  }
+]
