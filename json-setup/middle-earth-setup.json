@@ -1,218 +1,261 @@
-[{
-  "_id": {
-    "$oid": "69efd1c1b2f8c7327f029fad"
+[
+  {
+    "_id": {
+      "$oid": "69efd1c1b2f8c7327f029fad"
+    },
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "releaseYear": 2001,
+    "characters": [
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a001" },
+        "name": "Frodo Baggins",
+        "race": "Hobbit"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a002" },
+        "name": "Gandalf the Grey",
+        "race": "Maia (Wizard)"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a003" },
+        "name": "Aragorn",
+        "race": "Man"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a004" },
+        "name": "Legolas",
+        "race": "Elf"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a005" },
+        "name": "Gimli",
+        "race": "Dwarf"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a006" },
+        "name": "Boromir",
+        "race": "Man"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a007" },
+        "name": "Samwise Gamgee",
+        "race": "Hobbit"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a008" },
+        "name": "Saruman the White",
+        "race": "Maia (Wizard)"
+      }
+    ]
   },
-  "title": "The Lord of the Rings: The Fellowship of the Ring",
-  "releaseYear": 2001,
-  "characters": [
-    {
-      "name": "Frodo Baggins",
-      "race": "Hobbit"
+  {
+    "_id": {
+      "$oid": "69efd1c1b2f8c7327f029fae"
     },
-    {
-      "name": "Gandalf the Grey",
-      "race": "Maia (Wizard)"
-    },
-    {
-      "name": "Aragorn",
-      "race": "Man"
-    },
-    {
-      "name": "Legolas",
-      "race": "Elf"
-    },
-    {
-      "name": "Gimli",
-      "race": "Dwarf"
-    },
-    {
-      "name": "Boromir",
-      "race": "Man"
-    },
-    {
-      "name": "Samwise Gamgee",
-      "race": "Hobbit"
-    },
-    {
-      "name": "Saruman the White",
-      "race": "Maia (Wizard)"
-    }
-  ]
-},
-{
-  "_id": {
-    "$oid": "69efd1c1b2f8c7327f029fae"
+    "title": "The Lord of the Rings: The Two Towers",
+    "releaseYear": 2002,
+    "characters": [
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a009" },
+        "name": "Frodo Baggins",
+        "race": "Hobbit"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a00a" },
+        "name": "Aragorn",
+        "race": "Man"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a00b" },
+        "name": "Gollum",
+        "race": "Hobbit (Corrupted)"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a00c" },
+        "name": "Theoden",
+        "race": "Man"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a00d" },
+        "name": "Eowyn",
+        "race": "Man"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a00e" },
+        "name": "Treebeard",
+        "race": "Ent"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a00f" },
+        "name": "Faramir",
+        "race": "Man"
+      }
+    ]
   },
-  "title": "The Lord of the Rings: The Two Towers",
-  "releaseYear": 2002,
-  "characters": [
-    {
-      "name": "Frodo Baggins",
-      "race": "Hobbit"
+  {
+    "_id": {
+      "$oid": "69efd1c1b2f8c7327f029faf"
     },
-    {
-      "name": "Aragorn",
-      "race": "Man"
-    },
-    {
-      "name": "Gollum",
-      "race": "Hobbit (Corrupted)"
-    },
-    {
-      "name": "Theoden",
-      "race": "Man"
-    },
-    {
-      "name": "Eowyn",
-      "race": "Man"
-    },
-    {
-      "name": "Treebeard",
-      "race": "Ent"
-    },
-    {
-      "name": "Faramir",
-      "race": "Man"
-    }
-  ]
-},
-{
-  "_id": {
-    "$oid": "69efd1c1b2f8c7327f029faf"
+    "title": "The Lord of the Rings: The Return of the King",
+    "releaseYear": 2003,
+    "characters": [
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a010" },
+        "name": "Frodo Baggins",
+        "race": "Hobbit"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a011" },
+        "name": "Aragorn",
+        "race": "Man"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a012" },
+        "name": "Gandalf the White",
+        "race": "Maia (Wizard)"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a013" },
+        "name": "Arwen",
+        "race": "Elf"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a014" },
+        "name": "Elrond",
+        "race": "Elf"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a015" },
+        "name": "Sauron",
+        "race": "Maia (Dark Lord)"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a016" },
+        "name": "Witch-king of Angmar",
+        "race": "Wraith"
+      }
+    ]
   },
-  "title": "The Lord of the Rings: The Return of the King",
-  "releaseYear": 2003,
-  "characters": [
-    {
-      "name": "Frodo Baggins",
-      "race": "Hobbit"
+  {
+    "_id": {
+      "$oid": "69efd1c1b2f8c7327f029fb0"
     },
-    {
-      "name": "Aragorn",
-      "race": "Man"
-    },
-    {
-      "name": "Gandalf the White",
-      "race": "Maia (Wizard)"
-    },
-    {
-      "name": "Arwen",
-      "race": "Elf"
-    },
-    {
-      "name": "Elrond",
-      "race": "Elf"
-    },
-    {
-      "name": "Sauron",
-      "race": "Maia (Dark Lord)"
-    },
-    {
-      "name": "Witch-king of Angmar",
-      "race": "Wraith"
-    }
-  ]
-},
-{
-  "_id": {
-    "$oid": "69efd1c1b2f8c7327f029fb0"
+    "title": "The Hobbit: An Unexpected Journey",
+    "releaseYear": 2012,
+    "characters": [
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a017" },
+        "name": "Bilbo Baggins",
+        "race": "Hobbit"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a018" },
+        "name": "Gandalf the Grey",
+        "race": "Maia (Wizard)"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a019" },
+        "name": "Thorin Oakenshield",
+        "race": "Dwarf"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a01a" },
+        "name": "Balin",
+        "race": "Dwarf"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a01b" },
+        "name": "Radagast the Brown",
+        "race": "Maia (Wizard)"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a01c" },
+        "name": "Galadriel",
+        "race": "Elf"
+      }
+    ]
   },
-  "title": "The Hobbit: An Unexpected Journey",
-  "releaseYear": 2012,
-  "characters": [
-    {
-      "name": "Bilbo Baggins",
-      "race": "Hobbit"
+  {
+    "_id": {
+      "$oid": "69efd1c1b2f8c7327f029fb1"
     },
-    {
-      "name": "Gandalf the Grey",
-      "race": "Maia (Wizard)"
-    },
-    {
-      "name": "Thorin Oakenshield",
-      "race": "Dwarf"
-    },
-    {
-      "name": "Balin",
-      "race": "Dwarf"
-    },
-    {
-      "name": "Radagast the Brown",
-      "race": "Maia (Wizard)"
-    },
-    {
-      "name": "Galadriel",
-      "race": "Elf"
-    }
-  ]
-},
-{
-  "_id": {
-    "$oid": "69efd1c1b2f8c7327f029fb1"
+    "title": "The Hobbit: The Desolation of Smaug",
+    "releaseYear": 2013,
+    "characters": [
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a01d" },
+        "name": "Bilbo Baggins",
+        "race": "Hobbit"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a01e" },
+        "name": "Thorin Oakenshield",
+        "race": "Dwarf"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a01f" },
+        "name": "Smaug",
+        "race": "Dragon"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a020" },
+        "name": "Tauriel",
+        "race": "Elf"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a021" },
+        "name": "Legolas",
+        "race": "Elf"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a022" },
+        "name": "Bard the Bowman",
+        "race": "Man"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a023" },
+        "name": "Thranduil",
+        "race": "Elf"
+      }
+    ]
   },
-  "title": "The Hobbit: The Desolation of Smaug",
-  "releaseYear": 2013,
-  "characters": [
-    {
-      "name": "Bilbo Baggins",
-      "race": "Hobbit"
+  {
+    "_id": {
+      "$oid": "69efd1c1b2f8c7327f029fb2"
     },
-    {
-      "name": "Thorin Oakenshield",
-      "race": "Dwarf"
-    },
-    {
-      "name": "Smaug",
-      "race": "Dragon"
-    },
-    {
-      "name": "Tauriel",
-      "race": "Elf"
-    },
-    {
-      "name": "Legolas",
-      "race": "Elf"
-    },
-    {
-      "name": "Bard the Bowman",
-      "race": "Man"
-    },
-    {
-      "name": "Thranduil",
-      "race": "Elf"
-    }
-  ]
-},
-{
-  "_id": {
-    "$oid": "69efd1c1b2f8c7327f029fb2"
-  },
-  "title": "The Hobbit: The Battle of the Five Armies",
-  "releaseYear": 2014,
-  "characters": [
-    {
-      "name": "Bilbo Baggins",
-      "race": "Hobbit"
-    },
-    {
-      "name": "Thorin Oakenshield",
-      "race": "Dwarf"
-    },
-    {
-      "name": "Azog the Defiler",
-      "race": "Orc"
-    },
-    {
-      "name": "Dain Ironfoot",
-      "race": "Dwarf"
-    },
-    {
-      "name": "Beorn",
-      "race": "Skin-changer"
-    },
-    {
-      "name": "Bolg",
-      "race": "Orc"
-    }
-  ]
-}]
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "releaseYear": 2014,
+    "characters": [
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a024" },
+        "name": "Bilbo Baggins",
+        "race": "Hobbit"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a025" },
+        "name": "Thorin Oakenshield",
+        "race": "Dwarf"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a026" },
+        "name": "Azog the Defiler",
+        "race": "Orc"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a027" },
+        "name": "Dain Ironfoot",
+        "race": "Dwarf"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a028" },
+        "name": "Beorn",
+        "race": "Skin-changer"
+      },
+      {
+        "_id": { "$oid": "69efd1c1b2f8c7327f02a029" },
+        "name": "Bolg",
+        "race": "Orc"
+      }
+    ]
+  }
+]

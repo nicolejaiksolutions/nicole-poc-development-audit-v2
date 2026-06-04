@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "69efd1c1b2f8c7327f029fae",
+    "title": "The Lord of the Rings: The Two Towers",
+    "releaseYear": 2002,
+    "characters": [
+      {
+        "_id": "6a00000000000000000000a1",
+        "name": "Frodo Baggins",
+        "race": "Hobbit"
+      }
+    ]
+  },
+  {
+    "_id": "69efd1c1b2f8c7327f029fb1",
+    "title": "The Hobbit: The Desolation of Smaug",
+    "releaseYear": 2013,
+    "characters": [
+      { "_id": "6a15b1d58291c3d1a98c2ac1", "name": "Dave Jones", "race": "Man" }
+    ]
+  }
+]
