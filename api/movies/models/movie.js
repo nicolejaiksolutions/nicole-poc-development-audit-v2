@@ -6,7 +6,6 @@ const MovieSchema = mongoose.Schema({
   releaseYear: Number,
   characters: [
     {
-      _id: false,
       name: String,
       race: String,
     },
