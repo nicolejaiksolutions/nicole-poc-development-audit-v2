@@ -46,6 +46,8 @@ Base path: `/api/movies`
 
 #### `GET /api/movies/all`
 
+**Handler:** `MoviesAllGet`
+
 Returns all movies sorted by release year (ascending).
 
 **Response**
@@ -58,6 +60,8 @@ Returns all movies sorted by release year (ascending).
 ---
 
 #### `GET /api/movies/id/:id`
+
+**Handler:** `MovieByIdGet`
 
 Returns a single movie by its MongoDB ID.
 
@@ -80,6 +84,8 @@ Returns a single movie by its MongoDB ID.
 
 #### `GET /api/movies/movie-id/:movieId/characters`
 
+**Handler:** `CharactersByMovieId`
+
 Returns all characters belonging to a specific movie.
 
 **URL Parameters**
@@ -100,6 +106,8 @@ Returns all characters belonging to a specific movie.
 
 #### `GET /api/movies/all/characters`
 
+**Handler:** `MoviesAllCharactersGet`
+
 Returns all unique characters across every movie, deduplicated and sorted by movie release year.
 
 **Response**
@@ -112,6 +120,8 @@ Returns all unique characters across every movie, deduplicated and sorted by mov
 ---
 
 #### `GET /api/movies/character/:characterName/name`
+
+**Handler:** `MoviesByCharacterNameGet`
 
 Finds all movies containing a character with the given name (case-insensitive).
 
@@ -134,6 +144,8 @@ Finds all movies containing a character with the given name (case-insensitive).
 
 #### `GET /api/movies/by-race/:race`
 
+**Handler:** `MoviesByRaceGet`
+
 Finds all movies that contain characters of a specific race (case-insensitive).
 
 **URL Parameters**
@@ -154,6 +166,8 @@ Finds all movies that contain characters of a specific race (case-insensitive).
 ---
 
 #### `GET /api/movies/between/:startReleaseYear/and/:endReleaseYear`
+
+**Handler:** `MoviesByReleaseYearsGet`
 
 Finds all movies released between two years (inclusive). Both years must be in the range 2000–2020.
 
@@ -176,6 +190,8 @@ Finds all movies released between two years (inclusive). Both years must be in t
 ---
 
 #### `GET /api/movies/movie-id/:movieId/character-name/:characterName`
+
+**Handler:** `NamesById`
 
 Returns the details of a specific character from a specific movie, matched by character name (case-insensitive).
 
@@ -204,6 +220,8 @@ Base path: `/api/movie`
 
 #### `POST /api/movie/add`
 
+**Handler:** `MovieAddPost`
+
 Creates a new movie.
 
 **Request Body**
@@ -224,6 +242,8 @@ Creates a new movie.
 ---
 
 #### `PUT /api/movie/name/update`
+
+**Handler:** `MovieNamePut`
 
 Updates a movie's title.
 
@@ -247,6 +267,8 @@ Updates a movie's title.
 
 #### `POST /api/movie/character/add`
 
+**Handler:** `CharacterAddPost`
+
 Adds a new character to a movie. Movie and character name are provided in the request body.
 
 **Request Body**
@@ -269,6 +291,8 @@ Adds a new character to a movie. Movie and character name are provided in the re
 
 #### `POST /api/movie/:movie_id/character/:mainCharacterName/add`
 
+**Handler:** `CharacterByParamsAddPost`
+
 Adds a new character to a movie using URL parameters.
 
 **URL Parameters**
@@ -290,6 +314,8 @@ Adds a new character to a movie using URL parameters.
 ---
 
 #### `PUT /api/movie/character/update`
+
+**Handler:** `CharacterNamePut`
 
 Updates an existing character's name. Movie ID, character ID, and new name are provided in the request body.
 
@@ -314,6 +340,8 @@ Updates an existing character's name. Movie ID, character ID, and new name are p
 
 #### `PUT /api/movie/:movieId/character/:characterId/name/:characterName/update`
 
+**Handler:** `CharacterNameByParamsPut`
+
 Updates an existing character's name using URL parameters.
 
 **URL Parameters**
@@ -336,6 +364,8 @@ Updates an existing character's name using URL parameters.
 ---
 
 #### `POST /api/movie/add/characters`
+
+**Handler:** `CharacterToMoviesAddPost`
 
 Adds a character to multiple movies in a single request.
 
